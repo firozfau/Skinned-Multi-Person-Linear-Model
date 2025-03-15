@@ -41,3 +41,6 @@ python codeHub/frz.py --model-folder /Users/frzf7/Documents/www/python_server/co
 ## Important-Note:
 'Before run this project you have to unzip models zip file (it is required )'
 Smplx/ models.zp
+
+##
+https://smpl.is.tue.mpg.de/
