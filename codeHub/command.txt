@@ -1,0 +1,15 @@
+Run code
+
+python codeHub/main.py --model-folder /Users/frzf7/Documents/www/python_server/computer_vision/smplx/smplx/models --plot-joints true
+
+
+ python codeHub/main.py --model-folder /Users/frzf7/Documents/www/python_server/computer_vision/smplx/smplx/models --plot-joints true --genders neutral male female
+
+
+
+
+ python codeHub/frz.py --model-folder /Users/frzf7/Documents/www/python_server/computer_vision/smplx/smplx/models --model-type smplx --gender neutral --plot-joints True
+
+
+
+python examples/demo.py --model-folder /Users/frzf7/Documents/www/python_server/computer_vision/smplx/smplx/models --plot-joints true
